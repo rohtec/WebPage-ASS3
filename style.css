@@ -17,7 +17,7 @@ main {
   margin: auto;
   background-color: rgb(244, 248, 250);
   width: 75%;
-  height: 85vh;
+  height: 88vh;
 }
 .logo {
   height: 35px;
@@ -65,7 +65,7 @@ section {
   background-color: #fff;
   border-radius: 5px;
   width: 50%;
-  height: 64vh;
+  height: 74vh;
   box-shadow: 2px 1px 10px 2px rgba(0, 0, 0, 0.1);
   margin: 50px auto;
   display: grid;
