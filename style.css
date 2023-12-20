@@ -17,7 +17,7 @@ main {
   margin: auto;
   background-color: rgb(244, 248, 250);
   width: 75%;
-  height: 88vh;
+  height: 85vh;
 }
 .logo {
   height: 35px;
@@ -65,7 +65,7 @@ section {
   background-color: #fff;
   border-radius: 5px;
   width: 50%;
-  height: 74vh;
+/*   height: 74vh; */
   box-shadow: 2px 1px 10px 2px rgba(0, 0, 0, 0.1);
   margin: 50px auto;
   display: grid;
@@ -259,7 +259,7 @@ footer {
 }
 h4 {
   color: white;
-  font-size: 14px;
+  font-size: 13px;
   letter-spacing: -0.4px;
   font-family: Poppins;
   font-weight: 500;
@@ -267,7 +267,7 @@ h4 {
 }
 h6 {
   color: white;
-  font-size: 49px;
+  font-size: 46px;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 100;
   margin-inline-start: 30px;
@@ -291,7 +291,7 @@ sub {
 }
 h5 {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 16px;
+  font-size: 14px;
   font-family: Poppins;
   font-weight: 500;
   margin-inline-start: 30px;
@@ -301,7 +301,7 @@ h5 {
 h3,
 #last-text {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 13px;
+  font-size: 10px;
   font-family: Poppins;
   font-weight: 200;
 }
