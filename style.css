@@ -306,13 +306,8 @@ h3,
   font-family: Poppins;
   font-weight: 200;
 }
-.fig3 {
-  width: 1.3rem;
-  height: 1.3rem;
-  border-radius: 50%;
-  font-size: 14px;
-  color: rgba(255, 255, 255, 0.8);
-  border: 2px solid rgba(255, 255, 255, 0.8);
+#check-icon {
+  height:14px;
 }
 .check {
   display: inline-flex;
