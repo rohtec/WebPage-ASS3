@@ -240,7 +240,7 @@ h2 {
 }
 #stripe {
   width: 9rem;
-  height: 4rem;
+  height: 4.5rem;
 }
 .image {
   margin-block-start: -20px;
@@ -254,7 +254,7 @@ footer {
   font-family: Poppins;
   font-weight: 600;
   color: rgba(60, 60, 60, 0.6);
-  margin-top: -30px;
+  margin-top: 30px;
   margin-left: 40%;
 }
 h4 {
