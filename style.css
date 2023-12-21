@@ -17,7 +17,7 @@ main {
   margin:4px auto;
   background-color: rgb(244, 248, 250);
   width: 75%;
-  height: 92vh;
+  height: 94vh;
 }
 .logo {
   height: 35px;
@@ -64,10 +64,10 @@ button:hover {
 section {
   background-color: #fff;
   border-radius: 5px;
-  width: 58%;
+  width: 62%;
 /*   height: 74vh; */
   box-shadow: 2px 1px 10px 2px rgba(0, 0, 0, 0.1);
-  margin: 50px auto;
+  margin: 30px auto;
   display: grid;
   grid-template-columns: 2fr 1fr;
 }
